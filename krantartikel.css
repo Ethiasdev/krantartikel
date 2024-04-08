@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+  }
+.foto1{
+    float: left;
+    padding-right: 15px;
+        
+      
+      
+}
+
+
+.foto2{
+    float: right;
+    padding-left: 15px;
+        
+      
+      
+}
+
+
+.foto3{
+    float: left;
+    padding-right: 15px;
+        
+      
+      
+}
